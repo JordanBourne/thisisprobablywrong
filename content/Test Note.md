@@ -1,0 +1,1 @@
+Hello this is a test note that links to the [[index]]
